@@ -1,0 +1,6 @@
+framework module Pods_eureka_custom_cell {
+  umbrella header "Pods-eureka-custom-cell-umbrella.h"
+
+  export *
+  module * { export * }
+}
